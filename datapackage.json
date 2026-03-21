@@ -1,0 +1,33 @@
+{
+  "name": "ciberadiccion-en-america-latina-base-de-datos-por-edades-y-paises-2018-2024",
+  "title": "Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar",
+  "description": "Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/ciberadiccion-en-america-latina-base-de-datos-por-edades-y-paises-2018-2024"
+    }
+  ],
+  "created": "2026-03-20"
+}
