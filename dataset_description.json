@@ -1,0 +1,103 @@
+{
+  "datasetVersion": {
+    "title": "Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar",
+    "description": "<p>Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar</p>",
+    "subject": [
+      "Computer and Information Science",
+      "Social Sciences",
+      "Medicine, Health and Life Sciences"
+    ],
+    "keyword": [
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "open-data"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "dataset"
+          }
+        }
+      },
+      {
+        "typeName": "keyword",
+        "value": {
+          "keywordValue": {
+            "typeName": "keywordValue",
+            "value": "research"
+          }
+        }
+      }
+    ],
+    "author": [
+      {
+        "authorName": {
+          "typeName": "authorName",
+          "value": "de la Serna Tuya, Juan"
+        },
+        "authorAffiliation": {
+          "typeName": "authorAffiliation",
+          "value": "Universidad Internacional de La Rioja (UNIR)"
+        },
+        "authorIdentifierScheme": {
+          "typeName": "authorIdentifierScheme",
+          "value": "ORCID"
+        },
+        "authorIdentifier": {
+          "typeName": "authorIdentifier",
+          "value": "0000-0002-8401-8018"
+        }
+      }
+    ],
+    "datasetContact": [
+      {
+        "datasetContactEmail": {
+          "typeName": "datasetContactEmail",
+          "value": "juanmoises.delaserna@unir.net"
+        },
+        "datasetContactName": {
+          "typeName": "datasetContactName",
+          "value": "Juan Moisés de la Serna Tuya"
+        }
+      }
+    ],
+    "dsDescription": [
+      {
+        "dsDescriptionValue": {
+          "typeName": "dsDescriptionValue",
+          "value": "Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar"
+        }
+      }
+    ],
+    "language": [
+      "Spanish",
+      "English"
+    ],
+    "kindOfData": [
+      "Dataset"
+    ],
+    "license": "CC0 1.0",
+    "distributor": [
+      {
+        "distributorName": {
+          "typeName": "distributorName",
+          "value": "GitHub"
+        },
+        "distributorURL": {
+          "typeName": "distributorURL",
+          "value": "https://github.com/juanmoisesd/ciberadiccion-en-america-latina-base-de-datos-por-edades-y-paises-2018-2024"
+        }
+      }
+    ],
+    "distributionDate": "2026-03-20",
+    "depositor": "Juan Moisés de la Serna Tuya",
+    "dateOfDeposit": "2026-03-20"
+  }
+}
