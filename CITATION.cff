@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar"
+abstract: "Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/ciberadiccion-en-america-latina-base-de-datos-por-edades-y-paises-2018-2024"
 url: "https://juanmoisesd.github.io/ciberadiccion-en-america-latina-base-de-datos-por-edades-y-paises-2018-2024/"
-abstract: "Base de datos sobre ciberadicción (adicción a internet, redes sociales y videojuegos) en América Latina, con estadísticas organizadas por grupos de edad (niños, adolescentes, adultos jóvenes, adultos, adultos mayores) y por países (México, Brasil, Ar"
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
